@@ -1,0 +1,29 @@
+.not-found {
+  max-width: 600px;
+  margin: 100px auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.not-found h1 {
+  color: #ff0000;
+  margin-bottom: 20px;
+}
+
+.not-found p {
+  font-size: 1.2em;
+  color: #333;
+}
+
+.not-found a {
+  color: #0056b3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.not-found a:hover {
+  text-decoration: underline;
+}

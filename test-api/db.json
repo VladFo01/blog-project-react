@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Technology",
+      "summary": "Exploring upcoming trends in technology that will shape our future.",
+      "content": "Technology is rapidly evolving and shaping the world in ways we had never imagined. In this post, we explore the cutting-edge advancements that are likely to dominate the tech landscape over the coming decade, including AI, blockchain, and quantum computing.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?technology"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Climate Change",
+      "summary": "A deep dive into the science behind climate change and its impact on our planet.",
+      "content": "Climate change is one of the most pressing issues facing our planet today. This post explains the scientific principles behind global warming, the evidence supporting it, and the potential impacts on our environment and daily life.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?climatechange"
+    },
+    {
+      "id": 3,
+      "title": "The Art of Photography",
+      "summary": "Tips and techniques to elevate your photography skills.",
+      "content": "Photography is an art form that requires skill, creativity, and an eye for detail. In this post, we cover essential tips for capturing stunning photographs, from composition and lighting to post-processing techniques.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?photography"
+    },
+    {
+      "id": 4,
+      "title": "The World of Books",
+      "summary": "Exploring the impact of literature on society.",
+      "content": "Books have shaped human history and continue to influence societies worldwide. This post delves into the role of literature in shaping our thoughts, culture, and politics.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?books"
+    },
+    {
+      "id": 5,
+      "title": "Advancements in Health Tech",
+      "summary": "How technology is revolutionizing healthcare.",
+      "content": "From telemedicine to advanced surgical techniques, technology is transforming healthcare. This post explores the latest advancements that are making healthcare more accessible and efficient.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?healthcare"
+    },
+    {
+      "id": 6,
+      "title": "Travel and Culture",
+      "summary": "Discovering how travel broadens the mind.",
+      "content": "Travel not only relaxes the mind but also enriches it. This post discusses how exposure to different cultures and environments expands our worldview and enhances personal growth.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?travel"
+    },
+    {
+      "id": 7,
+      "title": "The Future of Space Exploration",
+      "summary": "What lies ahead for humanity in space.",
+      "content": "Space exploration has always fascinated humanity. This post covers the future missions planned by various space agencies and the technologies that will enable deeper space exploration.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?space"
+    },
+    {
+      "id": 8,
+      "title": "Sustainable Living",
+      "summary": "Practical tips for reducing your environmental footprint.",
+      "content": "Sustainability is crucial for the future of our planet. This post provides practical advice for reducing your environmental impact through everyday actions and choices.",
+      "imageUrl": "https://source.unsplash.com/1600x900/?sustainability"
+    }
+  ]
+}

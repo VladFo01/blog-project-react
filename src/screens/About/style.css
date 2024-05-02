@@ -1,0 +1,38 @@
+.about-page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.about-title {
+  color: #0056b3;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-content {
+  font-size: 1.2em;
+  line-height: 1.8;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .about-page {
+    padding: 10px;
+    margin: 20px;
+  }
+
+  .about-title {
+    font-size: 1.8em;
+  }
+
+  .about-content {
+    font-size: 1em;
+  }
+}
